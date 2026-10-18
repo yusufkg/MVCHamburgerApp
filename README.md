@@ -1,1 +1,1 @@
-# MVCHamburgerApp
+# .Net 8 Core
